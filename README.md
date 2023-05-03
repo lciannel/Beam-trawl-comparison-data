@@ -1,7 +1,7 @@
 # Beam-trawl-comparison-data
 Data used in the analyses of beam trawl and bottom trawl data along NH Line
 The beam trawl has a width of 2m and a height of 0.5 m.
-The file BeamTrawl_2012_2015.xls contains the following columns:
+The file BeamTrawl_2012_2015.csv contains the following columns:
 sampleDate: date
 station: name of station
 MM: month
